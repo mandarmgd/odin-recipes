@@ -1,0 +1,14 @@
+.heading
+{
+    background-color: orange;
+    font-family: "Times New Roman";
+}
+img
+{
+    height: auto;
+    width: 300px;
+}
+.desc,.ing,.steps
+{
+    background-color: rgb(0,120,0);
+}
