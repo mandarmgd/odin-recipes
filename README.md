@@ -3,4 +3,4 @@ This project serves as my first step towards the world of web development. It co
 
 I have put all the recipes in a separate folder simply titled 'recipes'. Each dish has been provided with a small description, followed by the ingredients required to make them and the steps to be followed. I've also added an image to each recipe. I've used lists to display ingredients and steps neatly and effectively, headings to differentiate between the content written and paragraphs for content writing.
 
-I've also made some changes to the project using CSS concepts, such as classes, text and image properties. 
+I've also made some changes to the project using CSS concepts, such as class selectors, text and image properties. 
