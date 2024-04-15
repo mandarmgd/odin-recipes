@@ -12,3 +12,25 @@ img
 {
     background-color: rgb(0,120,0);
 }
+.para
+{
+    font-size: 20px;
+    color: purple;
+}
+.title
+{
+    padding: 5px;
+    border: 2px solid green;
+    margin: 5px;
+    width: 200px;
+    font-size: 30px;
+}
+#index-body
+{
+    background-color: rgb(161, 196, 207);
+}
+.list
+{
+    margin: 20px;
+    font-size: 20px;
+}
