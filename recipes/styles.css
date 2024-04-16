@@ -29,6 +29,9 @@ img
 #index-body
 {
     background-color: rgb(161, 196, 207);
+    border: 5px solid green;
+    padding: 5px;
+    width: 205px;
 }
 .list
 {
