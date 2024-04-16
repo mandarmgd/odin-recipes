@@ -1,7 +1,6 @@
 .heading
 {
     background-color: orange;
-    font-family: "Times New Roman";
 }
 img
 {
@@ -16,14 +15,16 @@ img
 {
     font-size: 20px;
     color: purple;
+    margin-left: 5px;
 }
 .title
 {
     padding: 5px;
     border: 2px solid green;
     margin: 5px;
-    width: 200px;
+    width: 180px;
     font-size: 30px;
+    background-color: rgb(201, 137, 137);
 }
 #index-body
 {
